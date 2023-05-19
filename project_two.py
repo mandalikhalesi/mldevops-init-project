@@ -3,4 +3,4 @@ import numpy as np
 import matplotlib as plt
 
 def sota_addvals(a, b):
-    return a + bS
+    return a + b
